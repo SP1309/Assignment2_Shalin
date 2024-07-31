@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarDetailsApp</string>
+    <string-array name="car_models">
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Ford</item>
+        <item>BMW</item>
+        <item>Audi</item>
+    </string-array>
+</resources>
